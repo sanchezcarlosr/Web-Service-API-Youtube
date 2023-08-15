@@ -1,4 +1,7 @@
-# TP2VersionAngular
+# Proyecto de API de Youtube
+
+El proyecto consiste en una aplicacion web que consume la API de busqueda de video de Youtube. Es un buscador que
+permite obtener y reproducir el video buscado apartir de una lista de resultado de la busqueda.
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.3.11.
 
