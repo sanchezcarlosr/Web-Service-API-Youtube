@@ -1,4 +1,4 @@
-# Proyecto: Buscador de videos consumiendo la API de Youtube
+# Proyecto: Buscador de videos consumiendo la API de Youtube, Consumo de Api de Dezeer, etc.
 
 El proyecto consiste en una aplicacion web que consume la API de busqueda de video de Youtube. Es un buscador que
 permite obtener y reproducir el video buscado apartir de una lista de resultado de la busqueda.
